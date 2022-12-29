@@ -1,0 +1,6 @@
+[submodule "foody-dashboard"]
+	path = foody-dashboard
+	url = https://github.com/LeKiet258/foody-dashboard
+[submodule "data_crawling/Crawl-reviews-foody"]
+	path = data_crawling/Crawl-reviews-foody
+	url = https://github.com/LeKiet258/Crawl-reviews-foody
